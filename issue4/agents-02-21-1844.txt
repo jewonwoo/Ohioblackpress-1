@@ -1,0 +1,63 @@
+LOCAL AGENTS
+Cincinnati,OH,W W,Watson,A M,Sumner,W M,Yancy
+Hamilton,OH,J,Simpson
+Dayton, OH,T,Jefferson
+Springfield,oh,W,Piles,R,Piles
+Urbana,OH,L,Adams,A,Kane.
+Chillicothe,OH,R W,Chanceller,James,Leach
+U Moody,OH,C H,Langston,J,Burnett
+Circleville,OH,W,Scott
+Lancaster,OH,S,Smith,N,Smith
+Zancsville,OH,B,Messer,H Nusum,W Gasaway
+Hillshoro,OH,J, Tailor, N, Tailor
+Steubenville,oh, W, Ferris
+Newark,oh,W, Jenkins,H Robinson
+Cleveland,oh,J, Malvin, J L, Watson, R D, Kenney
+Dublin,oh,S, White Jr
+Xenia,oh,W, Roberts.
+Logan County,oh,K, Artis,Sen. K, Artis Jr
+Mt. Veron, oh, O, Martin
+Trenton,oh,J, Simpson
+Mt. Pleasant,oh,Elijah, Sawyer
+Warren,oh,A, Moore
+Gallipolis,oh,H, Bell, J, Gee
+Jackson,oh,N, Nukes, T, Woodson
+Lebanon,oh,T, Benford
+Massillon,oh,J, Thompson
+Barnesville,oh,A, Harper
+Oberlin,oh,A, Jones, W P, Newman
+Lower Sandusky,oh,A Winfield
+Lockburne,E C, Tyner
+Morgan County,oh,Lloyd E, Guy
+Putnum,oh,J, Thomas,
+New York City,C B Ray, TS Wright.
+Troy, N Y,H H Garnett.
+Utica, N YY,T’ Woodson, J Fontain,
+Geneva, N Y,J W Duffin.
+Rochester N Y,J Sharp.
+Batavia N Y,W Johnson.
+Brockport N Y,A Peck,
+Lockport, N Y,A Outley. s
+Buffalo, N Y,W W Brown, A I Francis.
+Boston, Mass.,J T Wilton.
+Pittsburgh, Pa.,J B Vashon.
+Madison Ia.,A Duncan.
+Indianopolis, Ia.,J G Bretton.
+Detroit, Mich.,R Banks, W C Monroe.
+Piketon,W Evans,
+Richmond, Ross co.,C Oston, .
+Sharonville,D Lucus, C Smith, W Polson:
+TRAVELING AGENTS.
+Cincinnati, Rev. C, Satchel, Rev. M. M_Clatk.
+Springfield. Kev. T. Roberts.
+Zanesville, Rev. Geo. Coleman.
+Wardina, Rev. E. Cumberland, Rev. Tox.
+Xenia. Rev. D. Winslow,
+Logan ce, Rev. M T. Nusum,
+Humiltgn. Rev. W. C Yancy.
+Massillon. Rev. J. Thomas.
+Columbus. Rev. W, Shelton, Rev. T. Lawrence.
+Mt, Pleasant, Rev. W..Numan. we
+Jackson co, Rey. 'T’. Woodson.
+
+ 
