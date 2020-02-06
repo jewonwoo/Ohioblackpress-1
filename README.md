@@ -1,11 +1,11 @@
 # data
 
 Image file nomenclature:
-i = issue number
-p = page number
-c = column number
+\i = issue number
+\p = page number
+\c = column number
 
-
+Reference tableOfContent.cvs for image content
 
 
 These data are still pretty raw. Need to clean up. 
