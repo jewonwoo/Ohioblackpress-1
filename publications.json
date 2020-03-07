@@ -1,0 +1,429 @@
+[
+   {
+      "newspaper":"Pittsburgh Gazette",
+      "location":"Pittsburgh, Pennsylvania",
+      "ethnicPeriodical":"",
+      "lat":40.4417,
+      "lon":-79.9901
+   },
+   {
+      "newspaper":"Cherokee Advocate ",
+      "location":"Tahlequah, Cherokee Nation [Okla.]",
+      "ethnicPeriodical":"Yes",
+      "lat":35.852709,
+      "lon":-94.990392
+   },
+   {
+      "newspaper":"Louisville Journal",
+      "location":"Louisville, Kentucky",
+      "ethnicPeriodical":"",
+      "lat":38.2542,
+      "lon":-85.7594
+   },
+   {
+      "newspaper":"Western Citizen",
+      "location":"Chicago, Illinois",
+      "ethnicPeriodical":"",
+      "lat":41.8756,
+      "lon":-87.6244
+   },
+   {
+      "newspaper":"The Mystery",
+      "location":"Pittsburgh, Pennsylvania",
+      "ethnicPeriodical":"Yes",
+      "lat":40.4417,
+      "lon":-79.9901
+   },
+   {
+      "newspaper":"Baltimore American",
+      "location":"Baltimore, Maryland",
+      "ethnicPeriodical":"",
+      "lat":39.2909,
+      "lon":-76.6108
+   },
+   {
+      "newspaper":"The True Sun",
+      "location":"London, England",
+      "ethnicPeriodical":"",
+      "lat":51.50722,
+      "lon":-0.1275
+   },
+   {
+      "newspaper":"New York Sun",
+      "location":"New York, New York",
+      "ethnicPeriodical":"",
+      "lat":40.7648,
+      "lon":-73.9808
+   },
+   {
+      "newspaper":"Baltimore Saturday Visiter",
+      "location":"Baltimore, Maryland",
+      "ethnicPeriodical":"",
+      "lat":39.2909,
+      "lon":-76.6108
+   },
+   {
+      "newspaper":"Piqua Register",
+      "location":"Miami, Ohio",
+      "ethnicPeriodical":"",
+      "lat":39.674759,
+      "lon":-84.260028
+   },
+   {
+      "newspaper":"Cincinnati Commercial",
+      "location":"Cincinnati, Ohio",
+      "ethnicPeriodical":"",
+      "lat":39.1015,
+      "lon":-84.5125
+   },
+   {
+      "newspaper":"Cincinnati Weekly Herald",
+      "location":"Cincinnati, Ohio",
+      "ethnicPeriodical":"",
+      "lat":39.1015,
+      "lon":-84.5125
+   },
+   {
+      "newspaper":"Ohio State Tribune",
+      "location":"Columbus, Ohio",
+      "ethnicPeriodical":"",
+      "lat":39.9623,
+      "lon":-83.0007
+   },
+   {
+      "newspaper":"Baltimore American",
+      "location":"Baltimore, Maryland",
+      "ethnicPeriodical":"",
+      "lat":39.2909,
+      "lon":-76.6108
+   },
+   {
+      "newspaper":"Milwaukee Democrat",
+      "location":"Milwaukee, Wisconsin",
+      "ethnicPeriodical":"",
+      "lat":43.0115,
+      "lon":-87.9735
+   },
+   {
+      "newspaper":"Dayton Eagle",
+      "location":"Dayton, Ohio",
+      "ethnicPeriodical":"",
+      "lat":39.7589,
+      "lon":-84.1916
+   },
+   {
+      "newspaper":"Cleveland Herald",
+      "location":"Cleveland, Ohio",
+      "ethnicPeriodical":"",
+      "lat":41.5052,
+      "lon":-81.6934
+   },
+   {
+      "newspaper":"Journal of Commerce",
+      "location":"New York, New York",
+      "ethnicPeriodical":"",
+      "lat":40.7648,
+      "lon":-73.9808
+   },
+   {
+      "newspaper":"New York Tribune",
+      "location":"New York, New York",
+      "ethnicPeriodical":"",
+      "lat":40.7648,
+      "lon":-73.9808
+   },
+   {
+      "newspaper":"Richmond Enquire",
+      "location":"Richmond, Virginia",
+      "ethnicPeriodical":"",
+      "lat":37.5385,
+      "lon":-77.4343
+   },
+   {
+      "newspaper":"The Daily Fashion",
+      "location":"New Orleans, Louisiana",
+      "ethnicPeriodical":"",
+      "lat":29.9499,
+      "lon":-90.0701
+   },
+   {
+      "newspaper":"London Sentinel",
+      "location":"London, Kentucky",
+      "ethnicPeriodical":"",
+      "lat":37.129,
+      "lon":-84.0833
+   },
+   {
+      "newspaper":"The Athenaeum",
+      "location":"London, England",
+      "ethnicPeriodical":"",
+      "lat":51.50722,
+      "lon":-0.1275
+   },
+   {
+      "newspaper":"Disfranchised American",
+      "location":"Cincinnati, Ohio",
+      "ethnicPeriodical":"Yes",
+      "lat":39.1015,
+      "lon":-84.5125
+   },
+   {
+      "newspaper":"The Exeter",
+      "location":"Exeter, New Hampshire",
+      "ethnicPeriodical":"",
+      "lat":42.9815,
+      "lon":-70.9478
+   },
+   {
+      "newspaper":"New Lisbon Aurora",
+      "location":"New Lisbon, Ohio",
+      "ethnicPeriodical":"",
+      "lat":43.8791,
+      "lon":-90.1654
+   },
+   {
+      "newspaper":"Ohio State Journal",
+      "location":"Columbus, Ohio",
+      "ethnicPeriodical":"",
+      "lat":39.9623,
+      "lon":-83.0007
+   },
+   {
+      "newspaper":"The Clarksonian",
+      "location":"Hartford, Conneticut",
+      "ethnicPeriodical":"Yes",
+      "lat":41.7635,
+      "lon":-72.6831
+   },
+   {
+      "newspaper":"Olive Branch",
+      "location":"Boston, Massachusett",
+      "ethnicPeriodical":"",
+      "lat":42.3605,
+      "lon":-71.0596
+   },
+   {
+      "newspaper":"Christian Freeman and Family Visiter",
+      "location":"Waltham, Massachusett",
+      "ethnicPeriodical":"",
+      "lat":42.3756,
+      "lon":-71.2358
+   },
+   {
+      "newspaper":"North Star",
+      "location":"Rochester, New York",
+      "ethnicPeriodical":"Yes",
+      "lat":43.1573,
+      "lon":-77.6152
+   },
+   {
+      "newspaper":"Spirit of Freedom",
+      "location":"Chagrin Falls, Ohio",
+      "ethnicPeriodical":"",
+      "lat":41.4362,
+      "lon":-81.3865
+   },
+   {
+      "newspaper":"Liberator",
+      "location":"Boston, Massachusett",
+      "ethnicPeriodical":"",
+      "lat":42.3605,
+      "lon":-71.0596
+   },
+   {
+      "newspaper":"Tippecanoe Journal",
+      "location":"Tippecanoe, Ohio",
+      "ethnicPeriodical":"",
+      "lat":40.2698,
+      "lon":-81.2868
+   },
+   {
+      "newspaper":"The Daily Madisonian",
+      "location":"Washington D.C.",
+      "ethnicPeriodical":"",
+      "lat":38.895,
+      "lon":-77.0366
+   },
+   {
+      "newspaper":"Philadelphia Gazette",
+      "location":"Philadelphia, Pennsylvania",
+      "ethnicPeriodical":"",
+      "lat":40.0115,
+      "lon":-75.1327
+   },
+   {
+      "newspaper":"Philadelphia Chronicle",
+      "location":"Philadelphia, Pennsylvania",
+      "ethnicPeriodical":"",
+      "lat":40.0115,
+      "lon":-75.1327
+   },
+   {
+      "newspaper":"The Daily Mercury",
+      "location":"Mobile, Alabama",
+      "ethnicPeriodical":"",
+      "lat":30.6488,
+      "lon":-88.1946
+   },
+   {
+      "newspaper":"The Avalanche",
+      "location":"Memphis, Tennessee",
+      "ethnicPeriodical":"",
+      "lat":35.149,
+      "lon":-90.0516
+   },
+   {
+      "newspaper":"The United States Gazette",
+      "location":"Philadelphia, Pennsylvania",
+      "ethnicPeriodical":"",
+      "lat":40.0115,
+      "lon":-75.1327
+   },
+   {
+      "newspaper":"The Portland Bulletin",
+      "location":"Portland, Maine",
+      "ethnicPeriodical":"",
+      "lat":43.661,
+      "lon":-70.2549
+   },
+   {
+      "newspaper":"The Buffalo Gazette",
+      "location":"Buffalo, New York",
+      "ethnicPeriodical":"",
+      "lat":42.9333,
+      "lon":-78.877
+   },
+   {
+      "newspaper":"Arkansas Traveler",
+      "location":"Fayetteville, Arkansas",
+      "ethnicPeriodical":"",
+      "lat":36.0626,
+      "lon":-94.1574
+   },
+   {
+      "newspaper":"American Republic",
+      "location":"New York, New York",
+      "ethnicPeriodical":"",
+      "lat":40.7648,
+      "lon":-73.9808
+   },
+   {
+      "newspaper":"St. Louis New Era",
+      "location":"St. Louis, Missouri",
+      "ethnicPeriodical":"",
+      "lat":38.63,
+      "lon":-90.19
+   },
+   {
+      "newspaper":"Morning Courier and New York Enquirer",
+      "location":"New York, New York",
+      "ethnicPeriodical":"",
+      "lat":40.7648,
+      "lon":-73.9808
+   },
+   {
+      "newspaper":"The Natchitoches Chronicle",
+      "location":"Natchitoches, Louisiana",
+      "ethnicPeriodical":"",
+      "lat":31.7607,
+      "lon":-93.086
+   },
+   {
+      "newspaper":"Christain Advocate and Journal",
+      "location":"New York, New York",
+      "ethnicPeriodical":"",
+      "lat":40.7648,
+      "lon":-73.9808
+   },
+   {
+      "newspaper":"Buffalo Courier",
+      "location":"Buffalo, New York",
+      "ethnicPeriodical":"",
+      "lat":42.9333,
+      "lon":-78.877
+   },
+   {
+      "newspaper":"New Orleans Commercial Bulletin",
+      "location":"New Orleans, Louisiana",
+      "ethnicPeriodical":"",
+      "lat":29.9499,
+      "lon":-90.0701
+   },
+   {
+      "newspaper":"Indiana Freeman",
+      "location":"Indianapolis, Indiana",
+      "ethnicPeriodical":"Yes",
+      "lat":39.7683,
+      "lon":-86.1584
+   },
+   {
+      "newspaper":"Boston Post",
+      "location":"Boston, Massachusett",
+      "ethnicPeriodical":"",
+      "lat":42.3605,
+      "lon":-71.0596
+   },
+   {
+      "newspaper":"Hunt's Merchant's Magazine",
+      "location":"New York, New York",
+      "ethnicPeriodical":"",
+      "lat":40.7648,
+      "lon":-73.9808
+   },
+   {
+      "newspaper":"Bangor Daily Whig & Courier",
+      "location":"Bangor, Maine",
+      "ethnicPeriodical":"",
+      "lat":44.8012,
+      "lon":-68.7778
+   },
+   {
+      "newspaper":"Dew Drop",
+      "location":"",
+      "ethnicPeriodical":"",
+      "lat":"",
+      "lon":""
+   },
+   {
+      "newspaper":"Democratic Freedom",
+      "location":"",
+      "ethnicPeriodical":"",
+      "lat":"",
+      "lon":""
+   },
+   {
+      "newspaper":"Bloomfield",
+      "location":"",
+      "ethnicPeriodical":"",
+      "lat":"",
+      "lon":""
+   },
+   {
+      "newspaper":"Liberty Courier",
+      "location":"",
+      "ethnicPeriodical":"",
+      "lat":"",
+      "lon":""
+   },
+   {
+      "newspaper":"Ellsworth Reports",
+      "location":"",
+      "ethnicPeriodical":"",
+      "lat":"",
+      "lon":""
+   },
+   {
+      "newspaper":"Franklin Banner",
+      "location":"",
+      "ethnicPeriodical":"",
+      "lat":"",
+      "lon":""
+   },
+   {
+      "newspaper":"Persevere",
+      "location":"",
+      "ethnicPeriodical":"",
+      "lat":"",
+      "lon":""
+   }
+]
